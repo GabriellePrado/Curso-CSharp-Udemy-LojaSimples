@@ -10,3 +10,30 @@ C:\Users\anton\Repositorio\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLoj
 C:\Users\anton\Repositorio\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.dll
 C:\Users\anton\Repositorio\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.pdb
 C:\Users\anton\Repositorio\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.genruntimeconfig.cache
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.csprojAssemblyReference.cache
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.AssemblyInfoInputs.cache
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.AssemblyInfo.cs
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.csproj.CoreCompileInputs.cache
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.dll
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.pdb
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.exe
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.deps.json
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.runtimeconfig.json
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.runtimeconfig.dev.json
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.dll
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.pdb
+C:\Users\anton\Repositorio\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.genruntimeconfig.cache
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.exe
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.deps.json
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.runtimeconfig.json
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.runtimeconfig.dev.json
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.dll
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\bin\Debug\netcoreapp3.1\ProjetoLojaSimples.pdb
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.AssemblyInfoInputs.cache
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.AssemblyInfo.cs
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.csproj.CoreCompileInputs.cache
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.dll
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.pdb
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.genruntimeconfig.cache
+C:\Users\anton\Repositorio\Projetos Curso C#Completo\Curso-CSharp-Udemy-LojaSimples\ProjetoLojaSimples\obj\Debug\netcoreapp3.1\ProjetoLojaSimples.csproj.AssemblyReference.cache
